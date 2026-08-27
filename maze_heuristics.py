@@ -1,0 +1,21 @@
+[
+  "tests/test_search.py::test_astar_matches_ucs_cost_on_random_eight",
+  "tests/test_search.py::test_eight_greedy_solves_but_may_be_suboptimal",
+  "tests/test_search.py::test_eight_optimal_cost[astar-Linear Conflict]",
+  "tests/test_search.py::test_eight_optimal_cost[astar-Manhattan Distance]",
+  "tests/test_search.py::test_eight_optimal_cost[astar-Misplaced Tiles]",
+  "tests/test_search.py::test_eight_optimal_cost[bfs-None]",
+  "tests/test_search.py::test_eight_optimal_cost[ids-None]",
+  "tests/test_search.py::test_eight_optimal_cost[ucs-None]",
+  "tests/test_search.py::test_eight_solvability_check",
+  "tests/test_search.py::test_maze_diagonal_cost",
+  "tests/test_search.py::test_maze_open_grid_shortest_path",
+  "tests/test_search.py::test_maze_rejects_start_or_goal_on_wall",
+  "tests/test_search.py::test_maze_unsolvable_when_walled_off",
+  "tests/test_search.py::test_n_queens_no_solution_for_n_equals_3",
+  "tests/test_search.py::test_n_queens_valid_solution[astar-Remaining Rows]",
+  "tests/test_search.py::test_n_queens_valid_solution[bfs-None]",
+  "tests/test_search.py::test_n_queens_valid_solution[dfs-None]",
+  "tests/test_search.py::test_n_queens_valid_solution[greedy-Remaining Rows]",
+  "tests/test_search.py::test_random_shuffle_is_always_solvable"
+]
